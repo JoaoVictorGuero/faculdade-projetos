@@ -9,7 +9,6 @@ Este repositório contém alguns dos projetos desenvolvidos ao longo do curso de
 - `C`
 - `C++`
 - `C#`
-- `HTML/CSS/JavaScript (Web)`
 
 ---
 
